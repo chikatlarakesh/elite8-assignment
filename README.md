@@ -6,7 +6,7 @@ A modern, interactive portfolio website built with React, Tailwind CSS, and Fram
 
 ## Live Demo
 
-[View Live Site](https://wonderful-taffy-ffe98d.netlify.app)
+[View Live Site](https://rakesh-assignment-elite8.netlify.app/)
 
 ## Features
 
