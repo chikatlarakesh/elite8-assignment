@@ -1,4 +1,4 @@
-# Rakesh's Portfolio Website
+# Elite8 Assignment
 
 A modern, interactive portfolio website built with React, Tailwind CSS, and Framer Motion.
 
